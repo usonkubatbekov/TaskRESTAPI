@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "YCWBZbOrPElt4d/zE2ItUI5k9BW2/CpODDbvaLeSDrA=",
+  "Source": "TaskRESTAPI",
+  "BasePath": "_content/TaskRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskRESTAPI\\wwwroot",
+      "Source": "TaskRESTAPI",
+      "ContentRoot": "C:\\Users\\uson\\source\\repos\\TaskRESTAPI\\TaskRESTAPI\\wwwroot\\",
+      "BasePath": "_content/TaskRESTAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\uson\\source\\repos\\TaskRESTAPI\\TaskRESTAPI\\wwwroot\\3 - 2022-10-16- тестовое задание (2).txt",
+      "SourceId": "TaskRESTAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\uson\\source\\repos\\TaskRESTAPI\\TaskRESTAPI\\wwwroot\\",
+      "BasePath": "_content/TaskRESTAPI",
+      "RelativePath": "3 - 2022-10-16- тестовое задание (2).txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\3 - 2022-10-16- тестовое задание (2).txt"
+    }
+  ]
+}
